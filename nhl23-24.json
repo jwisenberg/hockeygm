@@ -82997,7 +82997,7 @@
    "numDaysFreeAgent": 0,
    "pid": 1536
 }
-],"teams": [{"tid":0,"abbrev":"WAS","region":"Washington","name":"Capitals","imgURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Washington_Capitals.svg/220px-Washington_Capitals.svg.png","colors":["#041e41","#cf0a2c","#ffffff"],"jersey":"hockey3","cid":0,"did":1,"pop":9.8,"stadiumCapacity":18573,"disabled":false,"retiredJerseyNumbers":[
+],"teams": [{"tid":0,"abbrev":"WSH","region":"Washington","name":"Capitals","imgURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Washington_Capitals.svg/220px-Washington_Capitals.svg.png","colors":["#041e41","#cf0a2c","#ffffff"],"jersey":"hockey3","cid":0,"did":1,"pop":9.8,"stadiumCapacity":18573,"disabled":false,"retiredJerseyNumbers":[
 {"number":"5","seasonRetired":1997,"seasonTeamInfo":1993,"text":"Rod Langway"},
 {"number":"7","seasonRetired":1981,"seasonTeamInfo":1980,"text":"Yvon Labre"},
 {"number":"11","seasonRetired":2008,"seasonTeamInfo":1989,"text":"Mike Gartner"},
@@ -83042,10 +83042,10 @@
 {"number":"3","seasonRetired":2008,"seasonTeamInfo":1968,"text":"Pierre Pilote"},
 {"number":"18","seasonRetired":1998,"seasonTeamInfo":1997,"text":"Denis Savard"},
 {"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}
-]},{"tid":7,"abbrev":"TB","region":"Tampa Bay","name":"Lightning","imgURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tampa_Bay_Lightning_2011.svg/220px-Tampa_Bay_Lightning_2011.svg.png","colors":["#002868","#ffffff","#cccccc"],"jersey":"hockey3","cid":0,"did":0,"pop":3.1,"stadiumCapacity":19092,"disabled":false,"retiredJerseyNumbers":[
+]},{"tid":7,"abbrev":"TBL","region":"Tampa Bay","name":"Lightning","imgURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tampa_Bay_Lightning_2011.svg/220px-Tampa_Bay_Lightning_2011.svg.png","colors":["#002868","#ffffff","#cccccc"],"jersey":"hockey3","cid":0,"did":0,"pop":3.1,"stadiumCapacity":19092,"disabled":false,"retiredJerseyNumbers":[
 {"number":"4","seasonRetired":2018,"seasonTeamInfo":2013,"text":"Vincent Lecavalier"},
 {"number":"26","seasonRetired":2017,"seasonTeamInfo":2014,"text":"Martin St. Louis"},
-{"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":8,"abbrev":"LA","region":"Los Angeles","name":"Kings","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Los_Angeles_Kings_logo.svg/230px-Los_Angeles_Kings_logo.svg.png","colors":["#111111","#acaea9","#ffffff"],"jersey":"hockey","cid":1,"did":3,"pop":9.4,"stadiumCapacity":18230,"disabled":false,"retiredJerseyNumbers":[
+{"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":8,"abbrev":"LAK","region":"Los Angeles","name":"Kings","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Los_Angeles_Kings_logo.svg/230px-Los_Angeles_Kings_logo.svg.png","colors":["#111111","#acaea9","#ffffff"],"jersey":"hockey","cid":1,"did":3,"pop":9.4,"stadiumCapacity":18230,"disabled":false,"retiredJerseyNumbers":[
 {"number":"4","seasonRetired":2015,"seasonTeamInfo":2008,"text":"Rob Blake"},
 {"number":"16","seasonRetired":1990,"seasonTeamInfo":1987,"text":"Marcel Dionne"},
 {"number":"18","seasonRetired":1995,"seasonTeamInfo":1994,"text":"Dave Taylor"},
@@ -83074,7 +83074,7 @@
 {"number":"22","seasonRetired":2022,"seasonTeamInfo":1961,"text":"Willie O'Ree"},
 {"number":"24","seasonRetired":2002,"seasonTeamInfo":1985,"text":"Terry O'Reilly"},
 {"number":"77","seasonRetired":2001,"seasonTeamInfo":2000,"text":"Ray Bourque"},
-{"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":11,"abbrev":"SJ","region":"San Jose","name":"Sharks","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/3/37/SanJoseSharksLogo.svg/200px-SanJoseSharksLogo.svg.png","colors":["#006d75","#ea7200","#000000"],"jersey":"hockey3","cid":1,"did":3,"pop":9.7,"stadiumCapacity":17562,"disabled":false,"retiredJerseyNumbers":[
+{"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":11,"abbrev":"SJS","region":"San Jose","name":"Sharks","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/3/37/SanJoseSharksLogo.svg/200px-SanJoseSharksLogo.svg.png","colors":["#006d75","#ea7200","#000000"],"jersey":"hockey3","cid":1,"did":3,"pop":9.7,"stadiumCapacity":17562,"disabled":false,"retiredJerseyNumbers":[
 {"number":"12","seasonRetired":2023,"seasonTeamInfo":2021,"text":"Patrick Marleau"},
 {"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":12,"abbrev":"NYR","region":"New York","name":"Rangers","imgURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_York_Rangers.svg/200px-New_York_Rangers.svg.png","colors":["#0038a8","#ffffff","#ce1126"],"jersey":"hockey4","cid":0,"did":1,"pop":11.4,"stadiumCapacity":18006,"disabled":false,"retiredJerseyNumbers":[
 {"number":"1","seasonRetired":1989,"seasonTeamInfo":1976,"text":"Eddie Giacomin"},
@@ -83088,7 +83088,7 @@
 {"number":"19","seasonRetired":2018,"seasonTeamInfo":1976,"text":"Jean Ratelle"},
 {"number":"30","seasonRetired":2022,"seasonTeamInfo":2020,"text":"Henrik Lundqvist"},
 {"number":"35","seasonRetired":2004,"seasonTeamInfo":2003,"text":"Mike Richter"},
-{"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":13,"abbrev":"NAS","region":"Nashville","name":"Predators","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Nashville_Predators_Logo_%282011%29.svg/200px-Nashville_Predators_Logo_%282011%29.svg.png","colors":["#041e42","#ffffff","#ffb81c"],"jersey":"hockey4","cid":1,"did":2,"pop":2.1,"stadiumCapacity":17113,"disabled":false,"retiredJerseyNumbers":[
+{"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":13,"abbrev":"NSH","region":"Nashville","name":"Predators","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Nashville_Predators_Logo_%282011%29.svg/200px-Nashville_Predators_Logo_%282011%29.svg.png","colors":["#041e42","#ffffff","#ffb81c"],"jersey":"hockey4","cid":1,"did":2,"pop":2.1,"stadiumCapacity":17113,"disabled":false,"retiredJerseyNumbers":[
 {"number":"35","seasonRetired":2022,"seasonTeamInfo":2021,"text":"Pekka Rinne"},
 {"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":14,"abbrev":"OTT","region":"Ottawa","name":"Senators","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Ottawa_Senators.svg/200px-Ottawa_Senators.svg.png","colors":["#bf910c","#ce1126","#000000"],"jersey":"hockey4","cid":0,"did":0,"pop":1.3,"stadiumCapacity":18652,"disabled":false,"retiredJerseyNumbers":[
 {"number":"4","seasonRetired":2020,"seasonTeamInfo":2015,"text":"Chris Phillips"},
@@ -83104,7 +83104,7 @@
 {"number":"27","seasonRetired":2020,"seasonTeamInfo":1986,"text":"John Tonelli"},
 {"number":"31","seasonRetired":1993,"seasonTeamInfo":1989,"text":"Billy Smith"},
 {"number":"91","seasonRetired":2020,"seasonTeamInfo":1985,"text":"Butch Goring"},
-{"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":16,"abbrev":"MON","region":"Montreal","name":"Canadiens","imgURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Montreal_Canadiens.svg/200px-Montreal_Canadiens.svg.png","colors":["#192168","#ffffff","#af1e2d"],"jersey":"hockey","cid":0,"did":0,"pop":4.1,"stadiumCapacity":21273,"disabled":false,"retiredJerseyNumbers":[
+{"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":16,"abbrev":"MTL","region":"Montreal","name":"Canadiens","imgURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Montreal_Canadiens.svg/200px-Montreal_Canadiens.svg.png","colors":["#192168","#ffffff","#af1e2d"],"jersey":"hockey","cid":0,"did":0,"pop":4.1,"stadiumCapacity":21273,"disabled":false,"retiredJerseyNumbers":[
 {"number":"1","seasonRetired":1995,"seasonTeamInfo":1963,"text":"Jacques Plante"},
 {"number":"2","seasonRetired":1985,"seasonTeamInfo":1961,"text":"Doug Harvey"},
 {"number":"3","seasonRetired":2009,"seasonTeamInfo":1956,"text":"Emile Bouchard"},
@@ -83130,7 +83130,7 @@
 {"number":"7","seasonRetired":1990,"seasonTeamInfo":1984,"text":"Bill Barber"},
 {"number":"16","seasonRetired":1984,"seasonTeamInfo":1984,"text":"Bobby Clarke"},
 {"number":"88","seasonRetired":2018,"seasonTeamInfo":2000,"text":"Eric Lindros"},
-{"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":18,"abbrev":"ARI","region":"Arizona","name":"Coyotes","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Arizona_Coyotes.svg/200px-Arizona_Coyotes.svg.png","colors":["#111111","#e2d6b5","#8c2633"],"jersey":"hockey","cid":1,"did":2,"pop":4.9,"stadiumCapacity":17125,"disabled":false,"retiredJerseyNumbers":[
+{"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":18,"abbrev":"ARI","region":"Arizona","name":"Coyotes","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Arizona_Coyotes_logo_%282021%29.svg/800px-Arizona_Coyotes_logo_%282021%29.svg.png","colors":["#111111","#e2d6b5","#8c2633"],"jersey":"hockey","cid":1,"did":2,"pop":4.9,"stadiumCapacity":17125,"disabled":false,"retiredJerseyNumbers":[
 {"number":"19","seasonRetired":2019,"seasonTeamInfo":2017,"text":"Shane Doan"},
 {"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":19,"abbrev":"CAR","region":"Carolina","name":"Hurricanes","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Carolina_Hurricanes.svg/200px-Carolina_Hurricanes.svg.png","colors":["#cc0000","#111111","#a2a9af"],"jersey":"hockey3","cid":0,"did":1,"pop":2.2,"stadiumCapacity":18176,"disabled":false,"retiredJerseyNumbers":[
 {"number":"2","seasonRetired":2009,"seasonTeamInfo":2008,"text":"Glen Wesley"},
@@ -83167,7 +83167,7 @@
 {"number":"33","seasonRetired":2003,"seasonTeamInfo":2003,"text":"Patrick Roy"},
 {"number":"52","seasonRetired":2013,"seasonTeamInfo":2011,"text":"Adam Foote"},
 {"number":"77","seasonRetired":2001,"seasonTeamInfo":2001,"text":"Ray Bourque"},
-{"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":25,"abbrev":"NJ","region":"New Jersey","name":"Devils","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/New_Jersey_Devils_logo.svg/200px-New_Jersey_Devils_logo.svg.png","colors":["#ffffff","#ce1126","#000000"],"jersey":"hockey3","cid":0,"did":1,"pop":8.5,"stadiumCapacity":16514,"disabled":false,"retiredJerseyNumbers":[
+{"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":25,"abbrev":"NJD","region":"New Jersey","name":"Devils","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/New_Jersey_Devils_logo.svg/200px-New_Jersey_Devils_logo.svg.png","colors":["#ffffff","#ce1126","#000000"],"jersey":"hockey3","cid":0,"did":1,"pop":8.5,"stadiumCapacity":16514,"disabled":false,"retiredJerseyNumbers":[
 {"number":"3","seasonRetired":2006,"seasonTeamInfo":2003,"text":"Ken Daneyko"},
 {"number":"4","seasonRetired":2006,"seasonTeamInfo":2005,"text":"Scott Stevens"},
 {"number":"26","seasonRetired":2018,"seasonTeamInfo":2016,"text":"Patrik Elias"},
