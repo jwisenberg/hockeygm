@@ -83090,7 +83090,7 @@
 {"number":"35","seasonRetired":2004,"seasonTeamInfo":2003,"text":"Mike Richter"},
 {"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":13,"abbrev":"NSH","region":"Nashville","name":"Predators","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Nashville_Predators_Logo_%282011%29.svg/200px-Nashville_Predators_Logo_%282011%29.svg.png","colors":["#041e42","#ffffff","#ffb81c"],"jersey":"hockey4","cid":1,"did":2,"pop":2.1,"stadiumCapacity":17113,"disabled":false,"retiredJerseyNumbers":[
 {"number":"35","seasonRetired":2022,"seasonTeamInfo":2021,"text":"Pekka Rinne"},
-{"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":14,"abbrev":"OTT","region":"Ottawa","name":"Senators","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Ottawa_Senators.svg/200px-Ottawa_Senators.svg.png","colors":["#bf910c","#ce1126","#000000"],"jersey":"hockey4","cid":0,"did":0,"pop":1.3,"stadiumCapacity":18652,"disabled":false,"retiredJerseyNumbers":[
+{"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},{"tid":14,"abbrev":"OTT","region":"Ottawa","name":"Senators","imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Ottawa_Senators_2020-2021_logo.svg/220px-Ottawa_Senators_2020-2021_logo.svg.png","colors":["#bf910c","#ce1126","#000000"],"jersey":"hockey4","cid":0,"did":0,"pop":1.3,"stadiumCapacity":18652,"disabled":false,"retiredJerseyNumbers":[
 {"number":"4","seasonRetired":2020,"seasonTeamInfo":2015,"text":"Chris Phillips"},
 {"number":"8","seasonRetired":1992,"seasonTeamInfo":1934,"text":"Frank Finnigan"},
 {"number":"11","seasonRetired":2016,"seasonTeamInfo":2013,"text":"Daniel Alfredsson"},
