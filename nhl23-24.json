@@ -508,7 +508,8 @@
    "hgt": 71,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4565222.png&h=300&w=200&scale=crop\n",
    "lastName": "Hughes",
-   "ratings": [
+   "relatives":[{"type":"brother","pid":493,"name":"Luke Hughes"},{"type":"brother","pid":37,"name":"Quinn Hughes"}],
+      "ratings": [
       {
          "hgt": 45,
          "stre": 40,
@@ -724,6 +725,7 @@
    "hgt": 75,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4233875.png&h=300&w=200&scale=crop\n",
    "lastName": "Robertson",
+   "relatives":[{"type":"brother","pid":721,"name":"Nick Robertson"}],
    "ratings": [
       {
          "hgt": 65,
@@ -832,6 +834,7 @@
    "hgt": 74,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4024854.png&h=300&w=200&scale=crop\n",
    "lastName": "Tkachuk",
+   "relatives":[{"type":"brother","pid":56,"name":"Brady Tkachuk"}],
    "ratings": [
       {
          "hgt": 60,
@@ -1426,6 +1429,7 @@
    "hgt": 78,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4024988.png&h=300&w=200&scale=crop\n",
    "lastName": "Thompson",
+   "relatives":[{"type":"brother","pid":1100,"name":"Tyce Thompson"}],
    "ratings": [
       {
          "hgt": 80,
@@ -2020,6 +2024,7 @@
    "hgt": 70,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4320548.png&h=300&w=200&scale=crop\n",
    "lastName": "Hughes",
+   "relatives":[{"type":"brother","pid":9,"name":"Jack Hughes"},{"type":"brother","pid":493,"name":"Luke Hughes"}],
    "ratings": [
       {
          "hgt": 40,
@@ -2884,6 +2889,7 @@
    "hgt": 71,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114736.png&h=300&w=200&scale=crop\n",
    "lastName": "Nylander",
+   "relatives":[{"type":"brother","pid":1081,"name":"Alex Nylander"}],
    "ratings": [
       {
          "hgt": 45,
@@ -3046,6 +3052,7 @@
    "hgt": 76,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4319858.png&h=300&w=200&scale=crop\n",
    "lastName": "Tkachuk",
+   "relatives":[{"type":"brother","pid":15,"name":"Matthew Tkachuk"}],
    "ratings": [
       {
          "hgt": 70,
@@ -7744,6 +7751,7 @@
    "hgt": 75,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3899933.png&h=300&w=200&scale=crop\n",
    "lastName": "Strome",
+   "relatives":[{"type":"brother","pid":183,"name":"Ryan Strome"}],
    "ratings": [
       {
          "hgt": 65,
@@ -7852,6 +7860,7 @@
    "hgt": 73,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5219.png&h=300&w=200&scale=crop\n",
    "lastName": "Schenn",
+   "relatives":[{"type":"brother","pid":909,"name":"Luke Schenn"}],
    "ratings": [
       {
          "hgt": 55,
@@ -9310,6 +9319,7 @@
    "hgt": 76,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3041992.png&h=300&w=200&scale=crop\n",
    "lastName": "Jones",
+   "relatives":[{"type":"brother","pid":924,"name":"Caleb Jones"}],
    "ratings": [
       {
          "hgt": 70,
@@ -9850,6 +9860,7 @@
    "hgt": 75,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5434.png&h=300&w=200&scale=crop\n",
    "lastName": "Johansen",
+   "relatives":[{"type":"brother","pid":995,"name":"Lucas Johansen"}],
    "ratings": [
       {
          "hgt": 65,
@@ -9904,6 +9915,7 @@
    "hgt": 73,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2562636.png&h=300&w=200&scale=crop\n",
    "lastName": "Strome",
+   "relatives":[{"type":"brother","pid":143,"name":"Dylan Strome"}],
    "ratings": [
       {
          "hgt": 55,
@@ -13036,6 +13048,7 @@
    "hgt": 72,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2500990.png&h=300&w=200&scale=crop\n",
    "lastName": "Smith",
+   "relatives":[{"type":"brother","pid":929,"name":"Brendan Smith"}],
    "ratings": [
       {
          "hgt": 50,
@@ -15250,6 +15263,7 @@
    "hgt": 76,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3541.png&h=300&w=200&scale=crop\n",
    "lastName": "Staal",
+   "relatives":[{"type":"brother","pid":915,"name":"Marc Staal"}],
    "ratings": [
       {
          "hgt": 70,
@@ -15466,6 +15480,7 @@
    "hgt": 73,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3095975.png&h=300&w=200&scale=crop\n",
    "lastName": "Lindgren",
+   "relatives":[{"type":"brother","pid":567,"name":"Ryan Lindgren"}],
    "ratings": [
       {
          "hgt": 55,
@@ -16222,6 +16237,7 @@
    "hgt": 75,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3822.png&h=300&w=200&scale=crop\n",
    "lastName": "van Riemsdyk",
+   "relatives":[{"type":"brother","pid":599,"name":"Trevor van Riemsdyk"}],
    "ratings": [
       {
          "hgt": 65,
@@ -17086,6 +17102,7 @@
    "hgt": 74,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4024902.png&h=300&w=200&scale=crop\n",
    "lastName": "McLeod",
+   "relatives":[{"type":"brother","pid":606,"name":"Ryan McLeod"}],
    "ratings": [
       {
          "hgt": 60,
@@ -17680,6 +17697,7 @@
    "hgt": 76,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4565224.png&h=300&w=200&scale=crop\n",
    "lastName": "Dach",
+   "relatives":[{"type":"brother","pid":1128,"name":"Colton Dach"}],
    "ratings": [
       {
          "hgt": 70,
@@ -18544,6 +18562,7 @@
    "hgt": 72,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3096236.png&h=300&w=200&scale=crop\n",
    "lastName": "Tanev",
+   "relatives":[{"type":"brother","pid":589,"name":"Chris Tanev"}],
    "ratings": [
       {
          "hgt": 50,
@@ -22432,6 +22451,7 @@
    "hgt": 73,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3941965.png&h=300&w=200&scale=crop\n",
    "lastName": "Joseph",
+   "relatives":[{"type":"brother","pid":618,"name":"Pierre-Olivier Joseph"}],
    "ratings": [
       {
          "hgt": 55,
@@ -22756,6 +22776,7 @@
    "hgt": 72,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4352706.png&h=300&w=200&scale=crop\n",
    "lastName": "Boqvist",
+   "relatives":[{"type":"brother","pid":439,"name":"Jesper Boqvist"}],
    "ratings": [
       {
          "hgt": 50,
@@ -22972,6 +22993,7 @@
    "hgt": 75,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4063502.png&h=300&w=200&scale=crop\n",
    "lastName": "Raddysh",
+   "relatives":[{"type":"brother","pid":726,"name":"Darren Raddysh"}],
    "ratings": [
       {
          "hgt": 65,
@@ -23242,6 +23264,7 @@
    "hgt": 75,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5172.png&h=300&w=200&scale=crop\n",
    "lastName": "Foligno",
+   "relatives":[{"type":"brother","pid":455,"name":"Nick Foligno"}],
    "ratings": [
       {
          "hgt": 65,
@@ -23728,6 +23751,7 @@
    "hgt": 72,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4233872.png&h=300&w=200&scale=crop\n",
    "lastName": "Boqvist",
+   "relatives":[{"type":"brother","pid":421,"name":"Adam Boqvist"}],
    "ratings": [
       {
          "hgt": 50,
@@ -24592,6 +24616,7 @@
    "hgt": 72,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3535.png&h=300&w=200&scale=crop\n",
    "lastName": "Foligno",
+   "relatives":[{"type":"brother","pid":430,"name":"Marcus Foligno"}],
    "ratings": [
       {
          "hgt": 50,
@@ -24646,6 +24671,7 @@
    "hgt": 76,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4316970.png&h=300&w=200&scale=crop\n",
    "lastName": "Barron",
+   "relatives":[{"type":"brother","pid":642,"name":"Justin Barron"}],
    "ratings": [
       {
          "hgt": 70,
@@ -26644,6 +26670,7 @@
    "hgt": 74,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4874719.png&h=300&w=200&scale=crop\n",
    "lastName": "Hughes",
+   "relatives":[{"type":"brother","pid":9,"name":"Jack Hughes"},{"type":"brother","pid":37,"name":"Quinn Hughes"}],
    "ratings": [
       {
          "hgt": 60,
@@ -30640,6 +30667,7 @@
    "hgt": 72,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4271998.png&h=300&w=200&scale=crop\n",
    "lastName": "Lindgren",
+   "relatives":[{"type":"brother","pid":286,"name":"Charlie Lindgren"}],
    "ratings": [
       {
          "hgt": 50,
@@ -30856,6 +30884,7 @@
    "hgt": 72,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4588178.png&h=300&w=200&scale=crop\n",
    "lastName": "Anderson",
+   "relatives":[{"type":"brother","pid":732,"name":"Joey Anderson"}],
    "ratings": [
       {
          "hgt": 50,
@@ -31828,6 +31857,7 @@
    "hgt": 74,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5592.png&h=300&w=200&scale=crop\n",
    "lastName": "Tanev",
+   "relatives":[{"type":"brother","pid":343,"name":"Brandon Tanev"}],
    "ratings": [
       {
          "hgt": 60,
@@ -32368,6 +32398,7 @@
    "hgt": 75,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3025524.png&h=300&w=200&scale=crop\n",
    "lastName": "van Riemsdyk",
+   "relatives":[{"type":"brother","pid":300,"name":"James van Riemsdyk"}],
    "ratings": [
       {
          "hgt": 65,
@@ -32746,6 +32777,7 @@
    "hgt": 74,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4378669.png&h=300&w=200&scale=crop\n",
    "lastName": "McLeod",
+   "relatives":[{"type":"brother","pid":316,"name":"Michael McLeod"}],
    "ratings": [
       {
          "hgt": 60,
@@ -33394,6 +33426,7 @@
    "hgt": 74,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4233653.png&h=300&w=200&scale=crop\n",
    "lastName": "Joseph",
+   "relatives":[{"type":"brother","pid":415,"name":"Mathieu Joseph"}],
    "ratings": [
       {
          "hgt": 60,
@@ -34690,6 +34723,7 @@
    "hgt": 74,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4697408.png&h=300&w=200&scale=crop\n",
    "lastName": "Barron",
+   "relatives":[{"type":"brother","pid":456,"name":"Morgan Barron"}],
    "ratings": [
       {
          "hgt": 60,
@@ -38956,6 +38990,7 @@
    "hgt": 70,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4565275.png&h=300&w=200&scale=crop\n",
    "lastName": "Robertson",
+   "relatives":[{"type":"brother","pid":13,"name":"Jason Robertson"}],
    "ratings": [
       {
          "hgt": 40,
@@ -39226,6 +39261,7 @@
    "hgt": 72,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3149843.png&h=300&w=200&scale=crop\n",
    "lastName": "Raddysh",
+   "relatives":[{"type":"brother","pid":425,"name":"Taylor Raddysh"}],
    "ratings": [
       {
          "hgt": 50,
@@ -39550,6 +39586,7 @@
    "hgt": 72,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4197161.png&h=300&w=200&scale=crop\n",
    "lastName": "Anderson",
+   "relatives":[{"type":"brother","pid":571,"name":"Michael Anderson"}],
    "ratings": [
       {
          "hgt": 50,
@@ -49108,6 +49145,7 @@
    "hgt": 74,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5092.png&h=300&w=200&scale=crop\n",
    "lastName": "Schenn",
+   "relatives":[{"type":"brother","pid":145,"name":"Brayden Schenn"}],
    "ratings": [
       {
          "hgt": 60,
@@ -49432,6 +49470,7 @@
    "hgt": 76,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3250.png&h=300&w=200&scale=crop\n",
    "lastName": "Staal",
+   "relatives":[{"type":"brother","pid":282,"name":"Jordan Staal"}],
    "ratings": [
       {
          "hgt": 70,
@@ -49810,6 +49849,7 @@
    "hgt": 73,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4063378.png&h=300&w=200&scale=crop\n",
    "lastName": "Stillman",
+   "relatives":[{"type":"brother","pid":1183,"name":"Chase Stillman"}],
    "ratings": [
       {
          "hgt": 55,
@@ -49918,6 +49958,7 @@
    "hgt": 73,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3941970.png&h=300&w=200&scale=crop\n",
    "lastName": "Jones",
+   "relatives":[{"type":"brother","pid":172,"name":"Seth Jones"}],
    "ratings": [
       {
          "hgt": 55,
@@ -50188,6 +50229,7 @@
    "hgt": 74,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4973.png&h=300&w=200&scale=crop\n",
    "lastName": "Smith",
+   "relatives":[{"type":"brother","pid":241,"name":"Reilly Smith"}],
    "ratings": [
       {
          "hgt": 60,
@@ -50782,6 +50824,7 @@
    "hgt": 76,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4233598.png&h=300&w=200&scale=crop\n",
    "lastName": "Foote",
+   "relatives":[{"type":"brother","pid":968,"name":"Nolan Foote"}],
    "ratings": [
       {
          "hgt": 70,
@@ -52240,6 +52283,7 @@
    "hgt": 75,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114735.png&h=300&w=200&scale=crop\n",
    "lastName": "Fleury",
+   "relatives":[{"type":"brother","pid":1059,"name":"Cale Fleury"}],
    "ratings": [
       {
          "hgt": 65,
@@ -52294,6 +52338,7 @@
    "hgt": 75,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4565248.png&h=300&w=200&scale=crop\n",
    "lastName": "Foote",
+   "relatives":[{"type":"brother","pid":940,"name":"Cal Foote"}],
    "ratings": [
       {
          "hgt": 65,
@@ -53752,6 +53797,7 @@
    "hgt": 74,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4024994.png&h=300&w=200&scale=crop\n",
    "lastName": "Johansen",
+   "relatives":[{"type":"brother","pid":182,"name":"Ryan Johansen"}],
    "ratings": [
       {
          "hgt": 60,
@@ -57208,6 +57254,7 @@
    "hgt": 73,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4393055.png&h=300&w=200&scale=crop\n",
    "lastName": "Fleury",
+   "relatives":[{"type":"brother","pid":967,"name":"Haydn Fleury"}],
    "ratings": [
       {
          "hgt": 55,
@@ -58396,6 +58443,7 @@
    "hgt": 73,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4024861.png&h=300&w=200&scale=crop\n",
    "lastName": "Nylander",
+   "relatives":[{"type":"brother","pid":53,"name":"William Nylander"}],
    "ratings": [
       {
          "hgt": 55,
@@ -59422,6 +59470,7 @@
    "hgt": 73,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4419743.png&h=300&w=200&scale=crop\n",
    "lastName": "Thompson",
+   "relatives":[{"type":"brother","pid":26,"name":"Tage Thompson"}],
    "ratings": [
       {
          "hgt": 55,
@@ -60934,6 +60983,7 @@
    "hgt": 76,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4874940.png&h=300&w=200&scale=crop\n",
    "lastName": "Dach",
+   "relatives":[{"type":"brother","pid":327,"name":"Kirby Dach"}],
    "ratings": [
       {
          "hgt": 70,
@@ -63904,6 +63954,7 @@
    "hgt": 73,
    "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4874746.png&h=300&w=200&scale=crop\n",
    "lastName": "Stillman",
+   "relatives":[{"type":"brother","pid":922,"name":"Riley Stillman"}],
    "ratings": [
       {
          "hgt": 55,
