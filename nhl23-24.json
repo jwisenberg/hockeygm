@@ -83047,7 +83047,61 @@
    "gamesUntilTradable": 0,
    "numDaysFreeAgent": 0,
    "pid": 1536
-}
+},
+ {
+   "born": {
+      "year": 2004,
+      "loc": "Airdrie, AB, Canada"
+   },
+   "college": "",
+   "contract": {
+      "amount": 950,
+      "exp": 2026
+   },
+   "draft": {
+      "round": 6,
+      "pick": 186,
+      "tid": 2,
+      "year": 2022,
+      "originalTid": 2,
+      "pot": 0,
+      "ovr": 0
+   },
+   "firstName": "Josh",
+   "hgt": 69,
+   "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5103619.png&h=300&w=200&scale=crop\n",
+   "lastName": "Davies",
+   "ratings": [
+      {
+         "hgt": 35,
+         "stre": 15,
+         "spd": 18,
+         "endu": 41,
+         "pss": 13,
+         "wst": 33,
+         "sst": 34,
+         "stk": 27,
+         "oiq": 25,
+         "chk": 8,
+         "blk": 8,
+         "fcf": 14,
+         "diq": 8,
+         "glk": 3,
+         "pos": "W",
+         "season": 2024
+      }
+   ],
+   "tid": 2,
+   "weight": 196,
+   "jerseyNumber": "56",
+   "injury": {
+      "type": "Healthy",
+      "gamesRemaining": 0
+   },
+   "gamesUntilTradable": 0,
+   "numDaysFreeAgent": 0,
+   "pid": 1537
+} 
 ],"teams": [{"tid":0,"abbrev":"WSH","region":"Washington","name":"Capitals","imgURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Washington_Capitals.svg/220px-Washington_Capitals.svg.png","colors":["#041e41","#cf0a2c","#ffffff"],"jersey":"hockey3","cid":0,"did":1,"pop":9.8,"stadiumCapacity":18573,"disabled":false,"retiredJerseyNumbers":[
 {"number":"5","seasonRetired":1997,"seasonTeamInfo":1993,"text":"Rod Langway"},
 {"number":"7","seasonRetired":1981,"seasonTeamInfo":1980,"text":"Yvon Labre"},
