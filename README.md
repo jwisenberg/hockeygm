@@ -1,10 +1,10 @@
 December 16, 2023
 =================
-Added Ethan Gauthier to Tampa Bay
-Traded Tomas Tatar from Colorado to Seattle
-Traded Nick Cicek from San Jose to Vancouver
-Traded Jack Studnicka from Vancouver to San Jose
-Updated contract Clay Stevenson
+Added Ethan Gauthier to Tampa Bay.
+Traded Tomas Tatar from Colorado to Seattle.
+Traded Nick Cicek from San Jose to Vancouver.
+Traded Jack Studnicka from Vancouver to San Jose.
+Updated contract Clay Stevenson.
 
 December 9, 2023
 ================
