@@ -5,6 +5,7 @@ Traded Tomas Tatar from Colorado to Seattle.
 Traded Nick Cicek from San Jose to Vancouver.
 Traded Jack Studnicka from Vancouver to San Jose.
 Updated contract Clay Stevenson.
+Fixed several contracts.
 
 December 9, 2023
 ================
