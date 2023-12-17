@@ -1,3 +1,7 @@
+December 17, 2023
+=================
+Ratings Overhaul
+
 December 16, 2023
 =================
 Added Ethan Gauthier to Tampa Bay.
