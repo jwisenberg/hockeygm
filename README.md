@@ -1,3 +1,7 @@
+December 19, 2023
+=================
+Added Michael Hutchinson to Detroit.
+
 December 17, 2023
 =================
 Ratings Overhaul
