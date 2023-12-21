@@ -1,3 +1,7 @@
+December 20, 2023
+=================
+Updated Jersey Number for Michael Hutchinson (45)
+
 December 19, 2023
 =================
 Added Michael Hutchinson to Detroit.
