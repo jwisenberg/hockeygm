@@ -2,6 +2,7 @@ December 23, 2023
 =================
 Fixed a handful of players who got messed up during the 12/17 ratings update.
 Added contract extension for Ben Hutton.
+Added Noah Chadwick to Toronto.
 
 December 20, 2023
 =================
