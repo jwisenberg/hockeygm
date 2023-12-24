@@ -1,3 +1,7 @@
+December 24, 2023
+=================
+Updated all players to match bio info from nhl.com including name, birthplace, height and weight.
+
 December 23, 2023
 =================
 Fixed a handful of players who got messed up during the 12/17 ratings update.
