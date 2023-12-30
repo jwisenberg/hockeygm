@@ -1,3 +1,7 @@
+December 30, 2023
+=================
+Added Ethan Bear and Angus Booth
+
 December 24, 2023
 =================
 Updated all players to match bio info from nhl.com including name, birthplace, height and weight.
