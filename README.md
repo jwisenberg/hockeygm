@@ -1,3 +1,7 @@
+January 3, 2024
+===============
+Jaycob Megna to Chicago. Contract Extension for Uvis Balinskis.
+
 December 31, 2023
 =================
 Added Mathieu Cataford
