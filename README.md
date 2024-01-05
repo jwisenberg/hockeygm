@@ -1,3 +1,7 @@
+January 4, 2024
+===============
+Tobias Bjornfot to Vegas.
+
 January 3, 2024
 ===============
 Jaycob Megna to Chicago. Contract Extension for Uvis Balinskis.
