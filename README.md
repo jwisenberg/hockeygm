@@ -1,6 +1,6 @@
 January 6, 2024
 ===============
-Rem Pitlick to Chicago. Number updates for Tobias Bjornfot (26) and Adam Raska (51).
+Rem Pitlick and Zach Sanford to Chicago. Number updates for Tobias Bjornfot (26) and Adam Raska (51).
 
 January 4, 2024
 ===============
