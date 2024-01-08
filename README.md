@@ -1,3 +1,7 @@
+January 7, 2024
+===============
+Updated numbers for Zachary Sanford (13) and Rem Pitlick (20).
+
 January 6, 2024
 ===============
 Rem Pitlick and Zach Sanford to Chicago. Number updates for Tobias Bjornfot (26) and Adam Raska (51).
