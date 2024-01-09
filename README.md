@@ -1,3 +1,7 @@
+January 8, 2024
+===============
+Jamie Drysdale to Philadelphia. Updated William Nylander contract.
+
 January 7, 2024
 ===============
 Updated numbers for Zachary Sanford (13) and Rem Pitlick (20).
