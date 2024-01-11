@@ -1,3 +1,7 @@
+January 10, 2024
+================
+Gustav Lindstrom to Anahaim. Updated Nathan Walker contract.
+
 January 8, 2024
 ===============
 Jamie Drysdale to Philadelphia. Updated William Nylander contract.
