@@ -1,3 +1,7 @@
+January 11, 2024
+================
+Filip Cederqvist to Montreal.
+
 January 10, 2024
 ================
 Gustav Lindstrom to Anahaim. Updated Nathan Walker contract.
