@@ -1,3 +1,7 @@
+January 12, 2024
+================
+Updated Nick Foligno contract.
+
 January 11, 2024
 ================
 Filip Cederqvist to Montreal.
