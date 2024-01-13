@@ -1,3 +1,7 @@
+January 13, 2024
+================
+Updated number for Joshua Roy (89)
+
 January 12, 2024
 ================
 Updated Nick Foligno contract.
